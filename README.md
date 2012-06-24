@@ -8,9 +8,16 @@ Author: Simone Autore (aka Sippolo)
 
 This demo is just a raw implementation of portals, simple joints and basic physics using Box2D, and is developed with the awesome LibGDX java game framework: http://libgdx.badlogicgames.com/
 
+
 - Run Instruction:
 
 Make sure you have jre6+ installed on your machine, then just run the PortalWorld.jar
+
+
+- IDE Integration:
+
+You should be able to import the project directly into Eclipse and compile it without issues.
+
 
 - Android platform
 

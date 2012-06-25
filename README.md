@@ -13,6 +13,8 @@ This demo is just a raw implementation of portals, simple joints and basic physi
 
 Make sure you have jre6+ installed on your machine, then just run the PortalWorld.jar
 
+Download Builds: you can find the zip file of the build in the Downloads section on this repository, just make sure you extract all the files before executing the jar/bat, otherwise it may not run at all.
+
 
 - IDE Integration:
 
